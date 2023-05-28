@@ -45,7 +45,6 @@
 		<?php endif; ?>
 
 	</header><!-- #masthead -->
-	<h1>COUCOU</h1>
 
 	<?php
 
